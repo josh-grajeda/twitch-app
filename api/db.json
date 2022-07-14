@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is my stream",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "This is my second stream",
+      "id": 2
+    },
+    {
+      "title": "Third Stream",
+      "description": "Hello this my third stream",
+      "userId": "116127576475657989497",
+      "id": 3
+    },
+    {
+      "title": "Fourth Stream - NEW",
+      "description": "Hello this my fourth stream - NEW",
+      "userId": "116127576475657989497",
+      "id": 4
+    },
+    {
+      "title": "Streaming Again",
+      "description": "Watch me refactor components",
+      "userId": "116127576475657989497",
+      "id": 6
+    }
+  ]
+}
